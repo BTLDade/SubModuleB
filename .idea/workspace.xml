@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf7091e-4bd1-4b19-860e-5ebf5114ff11" name="Default" comment="update untrack">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SubModuleC" afterPath="$PROJECT_DIR$/SubModuleC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/SubModuleC/serviceA/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -375,7 +375,7 @@
       <workItem from="1497681258808" duration="1402000" />
       <workItem from="1497683304432" duration="2214000" />
       <workItem from="1497685531520" duration="740000" />
-      <workItem from="1497686425776" duration="2117000" />
+      <workItem from="1497686425776" duration="2581000" />
     </task>
     <task id="LOCAL-00001" summary="add ignore file">
       <created>1497682011020</created>
@@ -405,11 +405,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497688249664</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update untrack">
+      <created>1497689371580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1497689371580</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6473000" />
+    <option name="totallyTimeSpent" value="6937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
