@@ -1,0 +1,3 @@
+[submodule "SubModuleC"]
+	path = SubModuleC
+	url = https://github.com/BTLDade/SubModuleC
